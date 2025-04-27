@@ -2,6 +2,8 @@
 
 - 💻 **Information Technology Student**
 - 💻 **Graphic Designer**
+  
+##Skills:
 - 🖥️ **UI/UX Design**
 - 🌐 **Web Development**
 - 📱 **Mobile App Development**
