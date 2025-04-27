@@ -7,7 +7,7 @@
 - 📱 **Mobile App Development**
   
 Feel free to explore my repositories! I'm always eager to learn new things and collaborate.
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ly.del.17871) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:glydeldespojo23@gmail.com)
 
