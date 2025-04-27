@@ -5,8 +5,8 @@
 - 🖥️ **UI/UX Design**
 - 🌐 **Web Development**
 - 📱 **Mobile App Development**
-
-Feel free to check out the repositories and contribute to the projects! I'm always open to learning new things and collaborating.
+  
+Feel free to explore my repositories! I'm always eager to learn new things and collaborate.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ly.del.17871) 
 
