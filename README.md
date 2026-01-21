@@ -1,7 +1,8 @@
 # **Hi, I'm Glydel ✨✨**
 
 - 💻 **Information Technology Student**
-- 💻 **Graphic Designer**
+- 💻 **Freelance Developer**
+- 💻 **Layout Artist**
   
 ## Skills:
 - 🖥️ **UI/UX Design**
