@@ -3,13 +3,7 @@
 
 ---
 
-### 🐹 Cute hamster for you
 <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200"/>
-
-
-
-### 📊 GitHub Stats
-![Glydel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlydelD&show_icons=true&theme=tokyonight)
 
 
 
